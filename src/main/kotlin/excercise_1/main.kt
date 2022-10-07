@@ -15,6 +15,8 @@ var Email= "mjJACKSTONE@gmail.com"
 var School = "KodeGo"
 var ScAdd = "Taguig"
 var year = "2022"
+var deg = "Computer Engineering"
+var maj:String?= null
 
 
 
@@ -50,9 +52,12 @@ fun main(){
             println("SCHOOL : $School")
             println("SCHOOL LOCATION :  $ScAdd")
             println("SCHOOL YEAR :  $year")
+            println("DEGREE RECEIVED : $deg")
+            println("Major : $maj")
             println("US CITIZEN :  $SSid1")
             println("CONVICTED TO A FELONY :  $q2")
             println("Willing to submit a drug test:  $q3")
+
 
         }else
             if (age < 18){
