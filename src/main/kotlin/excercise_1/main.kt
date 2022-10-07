@@ -1,7 +1,7 @@
 package excercise_1
 var pos = "Mobile App Developer"
 var sal = "30,000-40,000 PHP"
-var date = "07-10-2022"
+var date = "07-10-"
 var Fname = "Michael"
 var Lname = "Jackson"
 var Mname = "A."
@@ -63,9 +63,9 @@ fun main(){
 
         }else
             if (age < 18){
-                println("NOT IN LEGAL AGE")
+                println("We only accept employees from 18 years old and above.")
             }else if (age > 100)
-                println("YOU ARE MORE THAN 100 YEARS OLD")
+                println("ARE YOU SURE YOU ARE STILL FIT TO WORK ? you're already more than 100 years old.")
 
     }
 
