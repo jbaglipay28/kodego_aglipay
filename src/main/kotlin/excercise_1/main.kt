@@ -1,5 +1,7 @@
 package excercise_1
-
+var pos = "Mobile Developer"
+var sal = "30,000-40,000 PHP"
+var date = "07-10-2022"
 var Fname = "Michael"
 var Lname = "Jackson"
 var Mname = "A."
@@ -24,13 +26,18 @@ fun main(){
 
     if (age != null) {
         if ((age > 17) && (age < 101)) {
+
             println("Q1 . are you a US CITIZEN? YES/NO")
             var SSid1 = readLine()?.toString()
             println("Q2 . HAVE YOU EVER CONVICTED OF A FELONY? YES/NO")
             var q2 = readLine()?.toString()
-            println("Q3 . IF SELECTED ARE YOU WILLING TO SUBMIT A DRUG TEST ? YES/NO \n\n")
+            println("Q3 . IF SELECTED ARE YOU WILLING TO SUBMIT A DRUG TEST ? YES/NO ")
             var q3 = readLine()?.toString()
-            print("\t***EMPLOYMENT FORM*** \n")
+            print("\n\n\t***EMPLOYMENT FORM*** \n")
+
+            println("Position you are applying : $pos ")
+            println("Desired Salary : $sal")
+            println("Date available to work : $date")
             println("NAME : $Fname  $Mname $Lname")
             println("AGE : $age ")
             println("ADDRESS :  $Add")
