@@ -1,7 +1,7 @@
 package excercise_1
 var pos = "Mobile App Developer"
 var sal = "30,000-40,000 PHP"
-var date = "07-10-"
+var date = "07-10-1958"
 var Fname = "Michael"
 var Lname = "Jackson"
 var Mname = "A."
