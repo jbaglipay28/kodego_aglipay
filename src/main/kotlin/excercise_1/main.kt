@@ -44,6 +44,7 @@ fun main(){
             println("NAME : $Fname  $Mname $Lname")
             println("AGE : $age ")
             println("ADDRESS :  $Add")
+            println("Birthdate : $bdate")
             println("CITY :  $City")
             println("STATE :  $State")
             println("ZIPCODE :  $Zcode")
