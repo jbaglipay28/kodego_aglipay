@@ -5,6 +5,7 @@ var date = "07-10-2022"
 var Fname = "Michael"
 var Lname = "Jackson"
 var Mname = "A."
+var bdate = "09-29-1958"
 var Add = "Lucky Chinatown"
 var City = "Manila"
 var State:String? = null
@@ -22,7 +23,7 @@ var maj:String?= null
 
 fun main(){
     print("Enter Your Age:\n")
-    val age = readLine()?.toDouble()
+    val age = readLine()?.toInt()
 
 
 
