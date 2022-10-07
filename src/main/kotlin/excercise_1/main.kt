@@ -5,7 +5,7 @@ var date = "07-10-2022"
 var Fname = "Michael"
 var Lname = "Jackson"
 var Mname = "A."
-var bdate = "09-29-1958"
+var Birthdate = "09-29-1958"
 var Add = "Lucky Chinatown"
 var City = "Manila"
 var State:String? = null
@@ -44,7 +44,7 @@ fun main(){
             println("NAME : $Fname  $Mname $Lname")
             println("AGE : $age ")
             println("ADDRESS :  $Add")
-            println("Birthdate : $bdate")
+            println("Birthdate : $Birthdate")
             println("CITY :  $City")
             println("STATE :  $State")
             println("ZIPCODE :  $Zcode")
