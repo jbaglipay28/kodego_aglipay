@@ -6,7 +6,7 @@ import java.util.Date
 fun main(){
         //Employment Form
             var position:String?=null
-            var salary:String?=null
+            var salary:Float?=null
             var available_date= Date()
 
         //Personal Information
@@ -47,7 +47,7 @@ fun main(){
 
             println("Position you are applying : $position ")
             println("Desired Salary : $salary")
-            println("Date available to work : $")
+            println("Date available to work : $available_date")
             println("NAME : $Firstname  $Middlename $Lastname")
             println("AGE : $age ")
             println("ADDRESS :  $Address")
