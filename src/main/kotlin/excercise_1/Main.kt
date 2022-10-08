@@ -1,30 +1,33 @@
 package excercise_1
-  //Employment Form
-    var position= ""
-    var salary=""
-    var available_date=""
-//Personal Information
-        var Firstname=""
-        var Lastname=""
-        var Middlename=""
-        var Birthdate=""
-        var Address=""
-        var City=""
-        var State=""
-        var Zipcode=""
-        var Homephone=""
-        var Cellphone=""
-        var Email=""
-//Education
-        var School=""
-        var School_Addres=""
-        var Year_Attended=""
-        var Degree=""
-        var Major=""
+
+import java.util.Date
 
 
+fun main(){
+        //Employment Form
+            var position:String?=null
+            var salary:String?=null
+            var available_date= Date()
 
-fun Main(){
+        //Personal Information
+            var Firstname:String?=null
+            var Lastname:String?=null
+            var Middlename:String?=null
+            var Birthdate:String?=null
+            var Address:String?=null
+            var City:String?=null
+            var State:String?=null
+            var Zipcode:String?=null
+            var Homephone:String?=null
+            var Cellphone:String?=null
+            var Email:String?=null
+        //Education
+            var School:String?=null
+            var School_Addres:String?=null
+            var Year_Attended:Int?=null
+            var Degree:String?=null
+            var Major:String?=null
+
     print("Enter Your Age:\n")
     val age = readLine()?.toInt()
 
@@ -35,6 +38,7 @@ fun Main(){
 
             println("Q1 . are you a US CITIZEN? YES/NO")
             var answer1 = readLine()?.toString()
+
             println("Q2 . HAVE YOU EVER CONVICTED OF A FELONY? YES/NO")
             var answer2 = readLine()?.toString()
             println("Q3 . IF SELECTED ARE YOU WILLING TO SUBMIT A DRUG TEST ? YES/NO ")

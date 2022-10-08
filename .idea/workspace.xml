@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dcd2283-a446-4e0c-b593-005ee2d24746" name="Changes" comment="added excercise 1 package&#10;added main.kt in exercise_1">
+    <list default="true" id="8dcd2283-a446-4e0c-b593-005ee2d24746" name="Changes" comment="renamed main.kt to Main.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_01_a/Act_A.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/excercise_1/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/excercise_1/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/excercise_1/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/excercise_1/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/KodeGo_MD2P/src/main/kotlin/EXCERCISE1.kt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/KodeGo_MD2P/src/main/kotlin/EXCERCISE1.kt&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -137,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665142528860</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added excercise 1 package&#10;added main.kt in exercise_1">
+      <created>1665146155166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665146155166</updated>
+    </task>
+    <task id="LOCAL-00014" summary="renamed main.kt to Main.kt">
+      <created>1665146208174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665146208174</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added excercise 1 package&#10;added main.kt in exercise_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added excercise 1 package&#10;added main.kt in exercise_1" />
+    <MESSAGE value="renamed main.kt to Main.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed main.kt to Main.kt" />
   </component>
 </project>
