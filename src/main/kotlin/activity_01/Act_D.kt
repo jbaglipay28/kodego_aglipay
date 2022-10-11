@@ -4,9 +4,6 @@ fun main(){
     print("Enter 5 monetary amount : \n")
     var cash1:Int? = null
     cash1 = readln().toInt()
-    if (cash1 == null){
-        cash1 == 0
-    }
     var cash2:Int? = null
     cash2 = readln().toInt()
     var cash3:Int? = null

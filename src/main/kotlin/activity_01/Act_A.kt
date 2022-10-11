@@ -1,6 +1,4 @@
-package activity_01_a
-
-import java.security.KeyStore.TrustedCertificateEntry
+package activity_01
 
 class Act_A {
     //Student Personal Profile
