@@ -38,7 +38,6 @@ fun main(){
 
             println("Q1 . are you a US CITIZEN? YES/NO")
             var answer1 = readLine()?.toString()
-
             println("Q2 . HAVE YOU EVER CONVICTED OF A FELONY? YES/NO")
             var answer2 = readLine()?.toString()
             println("Q3 . IF SELECTED ARE YOU WILLING TO SUBMIT A DRUG TEST ? YES/NO ")
